@@ -14,11 +14,11 @@ local utility = {}
 -- themes
 local objects = {}
 local themes = {
-	Background = Color3.fromRGB(10, 148, 198),
+	Background = Color3.fromRGB(4, 117, 158),
 	Glow = Color3.fromRGB(255, 255, 255),
 	Accent = Color3.fromRGB(10, 148, 198),
-	LightContrast = Color3.fromRGB(10, 148, 198),
-	DarkContrast = Color3.fromRGB(10, 148, 198),
+	LightContrast = Color3.fromRGB(21, 115, 149),
+	DarkContrast = Color3.fromRGB(0, 51, 102),
 	TextColor = Color3.fromRGB(255, 255, 255)
 }
 
